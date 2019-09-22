@@ -1,0 +1,37 @@
+body {
+  background-color: #F5F4F6;
+}
+
+label {
+  font-family: 'PT Mono', monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.panel {
+  padding: 10px;
+}
+
+.inner-addon {
+  position: relative;
+}
+
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+.left-addon .glyphicon {
+  left: 0px;
+}
+
+.left-addon input {
+  padding-left: 30px;
+}
+
+.criterio {
+  width: 400px !important;
+}

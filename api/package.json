@@ -1,0 +1,14 @@
+{
+  "name": "server-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cp -fv db.json .db.json && json-server --port $PORT --host $HOST .db.json --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.0"
+  }
+}
