@@ -1,2 +1,8 @@
-# portifolio
-Personal portifolio about tecnologies that I am skillied to work
+# Portifolio
+
+Personal portifolio about tecnologies I am ready to work
+
+## Vue
+## React
+## Java
+## Node
